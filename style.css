@@ -1,0 +1,73 @@
+body{
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header{
+  background-color: #f3e9f1;
+  color: #3f2630;
+  font-size: 1.3em;
+  opacity: 0.9;
+
+}
+.jumbotron{
+  opacity: 0.8;
+}
+footer{
+  background-color: #f3e9f1;
+  color: #3f2630;
+  font-size: 1.6em;
+  opacity: 0.8;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+#twitter{
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: #007bff;
+}
+#fb{
+  color:#FFFFFF;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: #3b5998;
+}
+#g-plus{
+  color:#FFFFFF;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: #db4a39;
+}
+#linkedin{
+  color:#FFFFFF;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: #0e76a8;
+}
+#dribble{
+  color:#FFFFFF;
+  text-decoration: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 50%;
+  background: #ea4c89;
+}
+.text-light h5{
+  color: black;
+  font-size: 1.8rem;
+}
+
+
