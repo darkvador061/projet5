@@ -1,6 +1,6 @@
 // Déclaration de l'URL suivi de l'id du teddy sélectionné via la fonction search 
 // et à partir du 4ème caractère avec substring (sans le ?id=)
-const urlApiteddy = "http://localhost:3000/api/teddies/" + "/" + location.search.substring(4);;
+const urlApiteddy = "http://localhost:3000/api/teddies" + "/" + location.search.substring(4);;
 const content = document.getElementById("product");
 let unit = document.getElementById("unit");
 
